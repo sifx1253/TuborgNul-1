@@ -20,6 +20,7 @@ nav a {
     font-family: 'Open Sans', sans-serif;
 }
 
+/*
 footer {
     font-family: 'Open Sans', sans-serif;
     background-color: #093A82;
@@ -28,6 +29,13 @@ footer {
     vertical-align: middle;
     line-height: 10vw;
     height: 10vw;
+}
+*/
+
+.footer_txt{
+    color: white;
+    text-align: center;
+
 }
 
 /* TOPPEN */
